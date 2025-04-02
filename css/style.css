@@ -1,0 +1,6 @@
+
+.carousel-inner img {
+    width: 100%; /*Garante que a imagem ocupe toda a largura do conteiner*/
+    height: 500px; /*Define uma altura fixa para as imagens*/
+    object-fit: cover; /*ajusta a proporção da imagem conforme as tags anteriores*/
+}
