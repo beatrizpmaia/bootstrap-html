@@ -4,3 +4,7 @@
     height: 500px; /*Define uma altura fixa para as imagens*/
     object-fit: cover; /*ajusta a proporção da imagem conforme as tags anteriores*/
 }
+
+.col-12.col-md img {
+    width: 25%;
+}
